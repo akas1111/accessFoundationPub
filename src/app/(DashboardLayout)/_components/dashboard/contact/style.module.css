@@ -1,0 +1,94 @@
+/* .contactWrap {
+    background-image: url('/helpbg.png');
+    padding: 1rem;
+    border-radius: 8px;
+    color: #eee;
+    margin: 0rem 0.5rem;
+    background-size: cover;
+    background-position: center;
+}
+.singleCon {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+    margin-bottom: 0.5rem;
+}
+.singleCon a {
+    text-decoration: none;
+    color: inherit;
+}
+.content {
+    flex: 1;
+}
+.conIcon {
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid #fff;
+    border-radius: 5px;
+    color: #fafafa;
+}
+.conTitle {
+    margin-bottom: 0.15rem;
+    font-weight: 700;
+    color: #fafafa;
+} */
+
+.contactWrap {
+    border-radius: 8px;
+    color: #484848;
+    /* color: #eee; */
+}
+.collapse {
+    padding: 1rem 0.5rem 0rem 3rem;
+}
+.singleCon {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+}
+.singleCon a {
+    text-decoration: none;
+    color: inherit;
+}
+.content {
+    flex: 1;
+}
+.conIcon {
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid #fff;
+    border-radius: 5px;
+    /* color: #fafafa; */
+}
+.conTitle {
+    margin-bottom: 0.15rem;
+    font-weight: 600;
+    /* color: #fafafa; */
+}
+
+
+.contactNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    /* background-color: rgba(93, 135, 255, 0.15); */
+    background-color: #ECF2FF;
+    color: #5D87FF;
+    padding: 12px 1rem;
+    border-left: 4px solid #5D87FF;
+    cursor: pointer;
+}
+.contactNav div {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}

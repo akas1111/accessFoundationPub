@@ -1,0 +1,22 @@
+.singleBlog {
+    /* border: 1px solid red; */
+}
+.singleBlog a {
+    text-decoration: none;
+    color: inherit;
+}
+.thumbnail {
+    max-width: 100%;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+.content {
+    /* border: 1px solid red; */
+    margin-top: 1rem;
+}
+.date {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+    gap: 4px;
+}

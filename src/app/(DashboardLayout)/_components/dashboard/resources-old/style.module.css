@@ -1,0 +1,25 @@
+.singleRes {
+    border: 1px solid #eee;
+    text-align: center;
+    padding: 1.5rem;
+    border-radius: 10px;
+}
+.imgWrap {
+    border-bottom: 1px dotted #eee;
+}
+.fitemWrap {
+    /* border: 1px solid blue; */
+    display: flex;
+    gap: 4px;
+}
+
+.filterItem {
+    /* border: 1px solid green; */
+    padding: 2px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.activeItem {
+    background-color: #5D87FF;
+    color: #fafafa;
+}
